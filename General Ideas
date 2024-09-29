@@ -3,5 +3,5 @@
   ## Farming Idea
       When the player acquires a last hit or deals 250 damage or more a warren opens up next to the player. Any ally that stands in the warren earns extra damage, experience, and other goods when standing in the warren
 
-  ## Advanced Enemy Spy System Other names are Tactical Scan and Insight Matrix
+  ## Advanced Enemy Spy System Other names are Tactical Vision and Insight Matrix
       This is already available on the map the system now is tedious to deal with. Basically as of now when you view an enemy on the UI the player can see the enemy's: Health, mana, damage, attribute, and item choices. I want the system updated to see all five enemy hero's stats without clicking on the enemy to get stats from the enemy.
